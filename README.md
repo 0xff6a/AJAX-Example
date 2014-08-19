@@ -16,7 +16,7 @@ Functionality:
 - App queries world weather online for local weather forecast at user's location
 - A weather-appropriate playlist is played in the spotify widget on the page
 - Page displays current weather, temperature and location as well as weathear-appropriate background image
-- Hosted on heroku
+- Hosted on heroku http://moodsic.herokuapp.com/
 
 Notes:
 -----
